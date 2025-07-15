@@ -5,12 +5,11 @@ A powerful Python tool for downloading media and content from Telegram channels,
 ## ✨ Features
 
 - **Download All Media Types**: Photos, videos, audio, documents, stickers, animations, voice notes, and video notes
-- **Batch Downloads**: Download multiple messages at once using message ranges
+- **Batch Downloads**: Download multiple messages at once using message ranges 
 - **Restricted Content**: Bypass download restrictions on protected content
 - **Flexible Naming**: Custom filenames with optional message ID indexing
 - **Progress Tracking**: Real-time download progress with speed indicators
 - **Dry Run Mode**: Preview what would be downloaded without actually downloading
-- **Cross-Platform**: Works on Windows, Linux, and macOS
 - **Session Management**: Secure session handling with automatic login
 
 ## 🚀 Quick Start
@@ -25,7 +24,7 @@ python -m pip install -r requirements.txt
 
 # Run directly
 python rcd.py [options] <telegram_link>
-
+```
 
 ## 📋 Requirements
 
